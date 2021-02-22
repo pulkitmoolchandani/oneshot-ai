@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oneshot-ai/static/css/main.9e321a56.chunk.css",
+    "main.js": "/oneshot-ai/static/js/main.46cea3ca.chunk.js",
+    "main.js.map": "/oneshot-ai/static/js/main.46cea3ca.chunk.js.map",
+    "runtime-main.js": "/oneshot-ai/static/js/runtime-main.59d2f7f9.js",
+    "runtime-main.js.map": "/oneshot-ai/static/js/runtime-main.59d2f7f9.js.map",
+    "static/js/2.747ef79a.chunk.js": "/oneshot-ai/static/js/2.747ef79a.chunk.js",
+    "static/js/2.747ef79a.chunk.js.map": "/oneshot-ai/static/js/2.747ef79a.chunk.js.map",
+    "static/js/3.8663b6bb.chunk.js": "/oneshot-ai/static/js/3.8663b6bb.chunk.js",
+    "static/js/3.8663b6bb.chunk.js.map": "/oneshot-ai/static/js/3.8663b6bb.chunk.js.map",
+    "index.html": "/oneshot-ai/index.html",
+    "static/css/main.9e321a56.chunk.css.map": "/oneshot-ai/static/css/main.9e321a56.chunk.css.map",
+    "static/js/2.747ef79a.chunk.js.LICENSE.txt": "/oneshot-ai/static/js/2.747ef79a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d2f7f9.js",
+    "static/js/2.747ef79a.chunk.js",
+    "static/css/main.9e321a56.chunk.css",
+    "static/js/main.46cea3ca.chunk.js"
+  ]
+}
